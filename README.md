@@ -1,1 +1,1 @@
-# ngram-based-predictive-text
+# bigram-based-predictive-text
